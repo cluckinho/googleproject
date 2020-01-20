@@ -1,0 +1,1 @@
+This repository is for self learning using "The Odin Project." I am aiming to recreate the google home page using HTML and CSS.
